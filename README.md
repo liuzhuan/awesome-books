@@ -2,6 +2,10 @@
 
 collection of good and open source books
 
+## Cryptography
+
+1. [Crypto 101](https://www.crypto101.io/), by [_lvh_](https://www.lvh.io/)
+
 ## Git
 
 1. [Pro Git v2](https://git-scm.com/book/en/v2), by [_Scott Chacon_](https://scottchacon.com/) and [_Ben Straub_](https://ben.straub.cc/)
