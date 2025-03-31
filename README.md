@@ -16,6 +16,10 @@ collection of good and open source books
 1. [Exploring ES6](https://exploringjs.com/es6.html), by [_Dr. Axel Rauschmayer_][dr-axel]
 1. [ECMAScript 6 入门教程](https://es6.ruanyifeng.com/), 作者[阮一峰](https://www.ruanyifeng.com/)
 
+## Linux
+
+1. [The Linux Command Line](https://www.linuxcommand.org/tlcl.php) by *William Shotts*
+
 ## Lisp
 
 1. [Structure and Interpretation of Computer Programs v2](https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/index.html), by [_Harold Abelson_](https://groups.csail.mit.edu/mac/users/hal/hal.html), [_Gerald Jay Sussman_](https://www.csail.mit.edu/person/gerald-sussman) and _Julie Sussman_, ([pdf](https://web.mit.edu/6.001/6.037/sicp.pdf))
